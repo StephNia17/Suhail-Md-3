@@ -1,7 +1,7 @@
 {
-    "__JSON__": true,
+    "__JSON__": false,
     "AUTHOR": "Suhail",
-    "THEME" : "GIDEON",
+    "theme" : "GIdeon",
     "LANGUAGE": "English",
     "LANGCODE": "en",
     "STRINGS": {  
