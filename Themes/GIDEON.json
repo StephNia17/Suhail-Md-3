@@ -1,9 +1,9 @@
 {
-    "__JSON__": false,
-    "AUTHOR": "Suhail",
-    "theme" : "GIdeon",
+    "__JSON__": true,
+    "AUTHOR": "Allison",
+    "theme" : "GIDEON",
     "LANGUAGE": "English",
-    "LANGCODE": "en",
+    "LANGCODE": "EN",
     "STRINGS": {  
         "updater": {  
             "UPDATE": "*Your bot is already on latest version Darling*",
